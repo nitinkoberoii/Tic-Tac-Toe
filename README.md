@@ -16,6 +16,9 @@ A simple and elegant Tic-Tac-Toe mobile game built with Flutter, featuring two-p
 
 ## Screenshots
 
+## 📸 Screenshots
+
+<img src="https://github.com/user-attachments/assets/fcdc35a8-ea92-4a0d-b7ff-de53c2163919" width="300" />
 ![Main Screen - tictactoe](https://github.com/user-attachments/assets/fcdc35a8-ea92-4a0d-b7ff-de53c2163919)
 ![X wins](https://github.com/user-attachments/assets/2ced11ed-02da-4d54-9fd6-5f2a2d81e80a)
 ![ItsDraw](https://github.com/user-attachments/assets/1e6f12be-a54f-4e4f-a043-535a69721a95)
